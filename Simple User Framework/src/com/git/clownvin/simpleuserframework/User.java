@@ -3,7 +3,7 @@ package com.git.clownvin.simpleuserframework;
 import java.io.Serializable;
 import java.util.Hashtable;
 
-import com.git.clownvin.security.Passwords;
+import com.clownvin.security.Passwords;
 
 public class User implements Serializable {
 	/**

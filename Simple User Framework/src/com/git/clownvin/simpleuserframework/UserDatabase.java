@@ -9,7 +9,7 @@ import java.io.ObjectOutputStream;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Hashtable;
 
-import com.git.clownvin.security.Passwords;
+import com.clownvin.security.Passwords;
 
 public final class UserDatabase<UserT extends User, ContainerT extends UserContainer<UserT>> {
 	
